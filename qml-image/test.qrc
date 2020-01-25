@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>assets/uv-grid-color.png</file>
+    </qresource>
+</RCC>
